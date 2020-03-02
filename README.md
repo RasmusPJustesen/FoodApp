@@ -14,3 +14,6 @@ School assignment
 * Webpack management
 * Androd / google play / IOS. release
 * Exercise ( øvelse for alle kan deploy deres egen thema app )
+
+
+hej
